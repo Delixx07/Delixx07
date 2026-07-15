@@ -52,17 +52,6 @@ Building web platforms and AI-powered tools, from RAG systems to full-stack apps
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Delixx07&label=Repos&query=public_repos&color=0d1117&style=for-the-badge&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/Delixx07?label=Followers&style=for-the-badge&color=0d1117&labelColor=0d1117)
-
-</div>
-
-<br>
-
 <div align="center">
 
 📫 **dustinfelix01@gmail.com**
