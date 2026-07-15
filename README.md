@@ -4,7 +4,7 @@
 
 **Informatics Engineering Student · ITS Surabaya**
 
-Building web platforms and AI-powered tools — from RAG systems to full-stack apps.
+Building web platforms and AI-powered tools, from RAG systems to full-stack apps.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://dustinfelix.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dustinfelix/)
@@ -56,8 +56,8 @@ Building web platforms and AI-powered tools — from RAG systems to full-stack a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Delixx07&theme=tokyonight&hide_border=true&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delixx07&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Delixx07&label=Repos&query=public_repos&color=0d1117&style=for-the-badge&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/Delixx07?label=Followers&style=for-the-badge&color=0d1117&labelColor=0d1117)
 
 </div>
 
